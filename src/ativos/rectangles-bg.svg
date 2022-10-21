@@ -1,0 +1,57 @@
+<svg width="970" height="682" viewBox="0 0 970 682" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_6_1204" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-238" y="0" width="1208" height="682">
+<g opacity="0.1" clip-path="url(#clip0_6_1204)">
+<path d="M953.882 681.353V0.0888672" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M912.322 681.353V0.0888672" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M870.762 681.353V0.0888672" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M829.203 681.353V0.0888672" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M787.644 681.353V0.0888672" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M746.075 681.353V0.0888672" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M704.516 681.353V0.0888672" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M662.956 681.353V0.0888672" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M621.396 681.353V0.0888672" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M579.833 681.353V0.0888672" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M538.273 681.353V0.0888672" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M496.713 681.353V0.0888672" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M455.149 681.353V0.0888672" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M413.583 681.353V0.0888672" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M372.003 681.363V0.0991211" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M330.442 681.363V0.0991211" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M288.879 681.363V0.0991211" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M247.319 681.363V0.0991211" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M205.758 681.363V0.0991211" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M164.195 681.363V0.0991211" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M122.635 681.363V0.0991211" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M81.0695 681.363L81.0704 0.0993652" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M39.5118 681.363V0.0993652" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M-237.675 651.841L1066.52 651.841" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M-237.675 610.3H1066.52" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M-237.675 568.759H1066.52" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M-237.675 527.218L1066.52 527.219" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M-237.675 485.678H1066.52" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M-237.675 444.138H1066.52" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M-237.675 402.595L1066.52 402.596" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M-237.675 361.055H1066.52" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M-237.675 319.516H1066.52" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M-237.675 277.974L1066.52 277.975" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M-237.675 236.434H1066.52" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M-237.675 194.895H1066.52" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M-237.675 153.354L1066.52 153.355" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M-237.675 111.813H1066.52" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M-237.675 70.2723L1066.52 70.2725" stroke="#727272" stroke-dasharray="6 6"/>
+<path d="M-237.675 28.7333L1066.52 28.7335" stroke="#727272" stroke-dasharray="6 6"/>
+</g>
+</mask>
+<g mask="url(#mask0_6_1204)">
+<ellipse cx="323.379" cy="337.923" rx="521.194" ry="308.698" fill="url(#paint0_radial_6_1204)"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_6_1204" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(323.379 337.923) rotate(90) scale(399.077 673.786)">
+<stop stop-color="#D9D9D9"/>
+<stop offset="1" stop-color="#D9D9D9" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0_6_1204">
+<rect width="1208" height="681.935" fill="white" transform="translate(-238)"/>
+</clipPath>
+</defs>
+</svg>
